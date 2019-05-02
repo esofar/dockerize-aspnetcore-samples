@@ -1,5 +1,4 @@
 # Dockerize AspNetCore Samples
-## Structure
 ![structure](docker-aspnetcore-structure.png)
 
 ## Quick Start
